@@ -13,4 +13,8 @@ footer span {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: olivedrab;
     font-size: 24px;
+    
+    border: 1px solid darkseagreen;
+    font-weight: 800;
+    text-transform: uppercase;
 }
