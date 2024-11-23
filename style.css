@@ -9,3 +9,8 @@ form {
     border-width: 2px;
     background-color: none;
 }
+footer span {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkgreen
+    font-size: 24px;
+}
